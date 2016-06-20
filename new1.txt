@@ -1,4 +1,3 @@
-git is a version control sysstem.
+git is a distributed control sysstem.
 git is free software. 
-git is a distributed version control stystem.
-git is free software.
+git is a version control stystem.
